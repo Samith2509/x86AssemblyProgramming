@@ -4,4 +4,7 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="DeclaringVariables/DeclaringVariables.vcxproj" Id="cdbc3716-e501-458b-bd36-2cb42b40b810" />
+  <Project Path="PointersandTypeDef/PointersandTypeDef.vcxproj" Id="5fdc5573-2da3-48a6-a55a-d02a9be041c2" />
+  <Project Path="ProgramLoops/ProgramLoops.vcxproj" Id="6df345a2-5c75-4a96-b296-ba31b9df32b5" />
+  <Project Path="scanArray/scanArray.vcxproj" Id="64e0e29e-33c7-4c30-bd13-79fbe681d205" />
 </Solution>
