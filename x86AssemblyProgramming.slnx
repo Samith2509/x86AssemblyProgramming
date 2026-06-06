@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="ArraySum/ArraySum.vcxproj" Id="565e264c-6863-48df-b385-f70f212e3272" />
   <Project Path="DeclaringVariables/DeclaringVariables.vcxproj" Id="cdbc3716-e501-458b-bd36-2cb42b40b810" />
   <Project Path="PointersandTypeDef/PointersandTypeDef.vcxproj" Id="5fdc5573-2da3-48a6-a55a-d02a9be041c2" />
   <Project Path="ProgramLoops/ProgramLoops.vcxproj" Id="6df345a2-5c75-4a96-b296-ba31b9df32b5" />
